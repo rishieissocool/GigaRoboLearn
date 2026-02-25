@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="gigarobolearn/gigarobolearn.vcxproj" Id="e0b90fa6-0ef7-418e-8441-4c4b5fd9f561" />
-</Solution>
